@@ -1,0 +1,12 @@
+src
+/components
+	/common
+	like, listGroup, pagination, table, tableBody, tableHeader
+  movies
+  moviesTable
+  navbar
+/services
+  fackgenreservice
+  fakemovieservice
+/utils
+  paginate
